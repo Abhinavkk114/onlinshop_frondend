@@ -1,0 +1,21 @@
+.content{
+    height: 250px;
+}
+/* .content2{
+    height: 100px;
+} */
+.checked{
+    color:gold;
+}
+.badge{
+    margin-left: 200px;
+}
+img{
+    height:300px ;
+}
+.footer{
+    height: 100px;
+}
+.card{
+    border: 0;
+}
